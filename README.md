@@ -1,6 +1,6 @@
 # Convolutional Neural Network를 이용한 개인형 이동수단의 분류
 
-#Classification of Personal Mobility Using Convolutional Neural Network
+# Classification of Personal Mobility Using Convolutional Neural Network
 
 
 
